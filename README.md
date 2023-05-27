@@ -1,4 +1,4 @@
-# Cric-Learners-Vedanshtandon
+# Cric-Learners
 Cric-Learners is an online platform to provide free basic guidelines, techniques and tips to individuals who have an immense passion and interest  for cricket. Cricket is our Religion.
 
 <img align="left" width="47%" height="600px" src="public/Home/profile.jpg">
@@ -20,4 +20,4 @@ Thus, Cric-Learners is an effective platform for individuals, cricket experts an
 
 <img align="left" width="100%" height="600px" src="public/Home/profile1.png">
 
-To visit the web-site: https://cric-learners.herokuapp.com/
+
